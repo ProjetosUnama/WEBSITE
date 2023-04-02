@@ -199,3 +199,42 @@ h1 {
     font-size: 15px;
     margin-left: 7px;
 }
+
+.rod_foot {
+    background-color: #110e14;
+    padding: 15px;
+}
+
+.rodape .card a {
+    text-decoration: none;
+    list-style-type: none;
+    color: #ffffff;
+}
+
+.rodape .card2 a {
+    text-decoration: none;
+    list-style-type: none;
+    color: #ffffff;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-around;
+}
+
+.brasao {
+    width: 110px;
+    margin-top: 10px;
+}
+
+.rod {
+    font-size: 20px;
+}
+
+.foot {
+    margin-top: 20px;
+}
+
+.rodape .card a {
+    padding: 5px;
+}
